@@ -128,12 +128,15 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 
 <!-- HMI -->
 ## HMI
+
 ### Screen 1
-<img src="images/HMI screen 1" alt="Logo" width="1000" height="1000">
+<img src="images/HMI screen 1" alt="Logo" width="800" height="800">
+
 ### Screen 2
-<img src="images/HMI screen 2" alt="Logo" width="1000" height="1000">
+<img src="images/HMI screen 2" alt="Logo" width="1000" height="800">
+
 ### Screen 3
-<img src="images/HMI screen 3" alt="Logo" width="1000" height="1000">
+<img src="images/HMI screen 3" alt="Logo" width="1000" height="800">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
