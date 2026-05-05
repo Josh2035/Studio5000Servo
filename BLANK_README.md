@@ -120,10 +120,10 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 <!-- Studio 5000 -->
 ## Studio 5000
 
-###Main Code
+### Main Code
 <img src="images/CodePg1.png" alt="Logo" width="1000" height="1000">
 <img src="images/CodePg2.png" alt="Logo" width="1000" height="1000">
-<img src="images/Codepg3.png" alt="Logo" width="1000" height="1000">
+<img src="images/CodePg3.png" alt="Logo" width="1000" height="400">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
