@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/HMI screen 1.png" alt="Logo" width="400" height="400">
+<img src="images/HMI screen 1.png" alt="Logo" width="800" height="800">
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
