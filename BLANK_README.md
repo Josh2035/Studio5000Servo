@@ -154,23 +154,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+JoshuaHayes348@gmail.com
+http://linkedin.com/in/joshua-hayes21
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Cayden LinkedIn/Email
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+Project Link: [https://github.com/Josh2035/Studio5000Projects](https://github.com/Josh2035/Studio5000Projects)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
