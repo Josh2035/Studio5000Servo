@@ -116,12 +116,14 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 <img src="images/HMI properties.png" alt="Logo" width="1000" height="1000">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- Studio 5000 -->
 ## Studio 5000
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+###Main Code
+<img src="images/CodePg1.png" alt="Logo" width="1000" height="1000">
+<img src="images/CodePg2.png" alt="Logo" width="1000" height="1000">
+<img src="images/Codepg3.png" alt="Logo" width="1000" height="1000">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
