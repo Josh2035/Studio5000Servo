@@ -128,13 +128,12 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 
 <!-- HMI -->
 ## HMI
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+### Screen 1
+<img src="images/HMI screen 1" alt="Logo" width="1000" height="1000">
+### Screen 2
+<img src="images/HMI screen 2" alt="Logo" width="1000" height="1000">
+### Screen 3
+<img src="images/HMI screen 3" alt="Logo" width="1000" height="1000">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
