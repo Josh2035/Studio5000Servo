@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This is the documentation for the capstone project we worked on. It is an single axis position finder that goes to 5 different positions with a servo motor. Below is the code, program, hmi, and materials that we used.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [C.More](https://www.automationdirect.com/)
+* [Studio5000](https://www.rockwellautomation.com/en-us/products/software/factorytalk/designsuite/studio-5000.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
