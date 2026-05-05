@@ -64,8 +64,9 @@
     <li>
       <a href="#Materials Used">Materials Used</a>
     </li>
+    <li><a href="#Setting up the Servo">Setting up the Servo Code</a></li>
     <li><a href="#Studio5000 Code">Studio5000 Code</a></li>
-    <li><a href="#HMI Code">HMI Code</a></li>
+    <li><a href="#HMI">HMI</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -94,33 +95,19 @@ This is the documentation for the capstone project we worked on. It is an single
 
 
 
-<!-- GETTING STARTED -->
+<!-- Materials Used -->
 ## Materials Used
 * Motor Driver: [2198-C1004-ERS](https://literature.rockwellautomation.com/idc/groups/literature/documents/um/2198-um005_-en-p.pdf)
 * Motor: [MPL-A230P-EJ72AA](https://www.rockwellautomation.com/en-us/products/details.MPL-A230P-EJ72AA.html)
 * HMI: [EA9-T10-WCL](https://www.automationdirect.com/adc/shopping/catalog/hmi_(human_machine_interface)/graphical_hmi_devices/hmi_panels/ea9-t10wcl?srsltid=AfmBOoqi0IEj3LODBG-h_sAoNY-KbYAd3CgVyuxJpJt590dCL4myJ4lo)
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- Setting up the Servo -->
+## Setting up the Servo
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Studio 5000 -->
+## Studio 5000
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -130,8 +117,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- HMI -->
+## HMI
 
 - [ ] Feature 1
 - [ ] Feature 2
