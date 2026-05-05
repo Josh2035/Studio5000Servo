@@ -78,7 +78,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/HMI screen 1.png" alt="Logo" width="1000" height="1000">
 
 This is the documentation for the capstone project we worked on. It is an single axis position finder that goes to 5 different positions with a servo motor. Below is the code, program, hmi, and materials that we used.
 
