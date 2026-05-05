@@ -105,6 +105,16 @@ This is the documentation for the capstone project we worked on. It is an single
 
 <!-- Setting up the Servo -->
 ## Setting up the Servo
+#There is a lot to setup on a servo (Well over thousands of parameters), but here are some of the main ones.
+#Setting IP
+<img src="images/HMI Driver IP.png" alt="Logo" width="1000" height="1000">
+
+#Motor Plate
+<img src="images/HMI Motor Plate.png" alt="Logo" width="1000" height="1000">
+
+#HMI Properties
+<img src="images/HMI properties.png" alt="Logo" width="1000" height="1000">
+
 
 <!-- Studio 5000 -->
 ## Studio 5000
