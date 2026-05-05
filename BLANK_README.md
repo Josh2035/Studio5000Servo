@@ -96,9 +96,9 @@ This is the documentation for the capstone project we worked on. It is an single
 
 <!-- GETTING STARTED -->
 ## Materials Used
-Motor Driver: [2198-C1004-ERS](https://literature.rockwellautomation.com/idc/groups/literature/documents/um/2198-um005_-en-p.pdf)
-Motor: [MPL-A230P-EJ72AA](https://www.rockwellautomation.com/en-us/products/details.MPL-A230P-EJ72AA.html)
-HMI: [EA9-T10-WCL](https://www.automationdirect.com/adc/shopping/catalog/hmi_(human_machine_interface)/graphical_hmi_devices/hmi_panels/ea9-t10wcl?srsltid=AfmBOoqi0IEj3LODBG-h_sAoNY-KbYAd3CgVyuxJpJt590dCL4myJ4lo)
+*Motor Driver: [2198-C1004-ERS](https://literature.rockwellautomation.com/idc/groups/literature/documents/um/2198-um005_-en-p.pdf)
+*Motor: [MPL-A230P-EJ72AA](https://www.rockwellautomation.com/en-us/products/details.MPL-A230P-EJ72AA.html)
+*HMI: [EA9-T10-WCL](https://www.automationdirect.com/adc/shopping/catalog/hmi_(human_machine_interface)/graphical_hmi_devices/hmi_panels/ea9-t10wcl?srsltid=AfmBOoqi0IEj3LODBG-h_sAoNY-KbYAd3CgVyuxJpJt590dCL4myJ4lo)
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
