@@ -31,7 +31,7 @@
 <h3 align="center">Mechatronics Capstone Servo Position Indexer</h3>
 
   <p align="center">
-    Servo motor that oscillates around 5 different positions. Made by Cayden and Joshua Hayes for AET / Mechatronics capstone in advanced PLC programming.
+    Servo motor that oscillates around 5 different positions. Made by Cayden and Joshua Hayes for AET / Mechatronics capstone in advanced PLCs
   </p>
 </div>
 
