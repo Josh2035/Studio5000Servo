@@ -102,12 +102,15 @@ This is the documentation for the capstone project we worked on. It is an single
 ## Setting up the Servo
 There is a lot to setup on a servo (Well over thousands of parameters), but here are some of the main ones.
 ### Setting IP
+Setting up the IP to match the Servo Drive. This must be done on the physical servo controller as well, to ensure it is a static IP with no DHCP (If the router is not configured)
 <img src="images/HMI Driver IP.png" alt="Logo" width="1000" height="1000">
 
 ### Motor Plate
+Online you can find motor plate catalogs to upload to studio 5000. This ensures typing errors do not happen during configuration and speeds up the time it takes to configure a servo. Alternatively you can type these parameters in from the nameplate of the motor.
 <img src="images/HMI Motor Plate.png" alt="Logo" width="1000" height="1000">
 
-### HMI Properties
+### Axis Properties
+Here we are configuring the axis to not be in test mode and also making sure the feedback is set motor feedback. Different motors will use different feedback whether it is an absolute encoder, or you are trying to find frequency. There are many applications and different parameters for axis properties.
 <img src="images/HMI properties.png" alt="Logo" width="1000" height="1000">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -116,6 +119,7 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 ## Studio 5000
 
 ### Main Code
+To summarize the code we are using an equal to sequencing technique. This will wait until the servo has reached a certain position, wait 5 seconds and then set the sequence equal to one above the previous step. Hence the EQ and MOVE commands. We then update the parameter in the MAM (Motion Axis Move) command to have a different destination. Here we have 5 different sequences that oscillate. 
 <img src="images/CodePg1.png" alt="Logo" width="1000" height="1000">
 <img src="images/CodePg2.png" alt="Logo" width="1000" height="1000">
 <img src="images/CodePg3.png" alt="Logo" width="1000" height="400">
@@ -128,12 +132,15 @@ There is a lot to setup on a servo (Well over thousands of parameters), but here
 ## HMI
 
 ### Screen 1
+This is the main servo motor control. You can see the 5 different positions it finds, lighting up green each time it reaches the next one. We then have a servo on, run, stop, and home command. These are the parameters we felt necessary in the main screen.
 <img src="images/HMI screen 1.png" alt="Logo" width="800" height="800">
 
 ### Screen 2
+This screen was used to change the acceleration and deceleration rate of the servo, as well as being able to set the speed %, which is the percentage of the top speed.
 <img src="images/HMI screen 2.png" alt="Logo" width="1000" height="800">
 
 ### Screen 3
+Here is a manual mode. This is used either for testing or to find a specific position outside of the range of the servo. This is useful for maintenance technicians as they will be able to jog the servo wherever they want if they need to grease or clean certain areas. 
 <img src="images/HMI screen 3.png" alt="Logo" width="1000" height="800">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
