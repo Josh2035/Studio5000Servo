@@ -38,7 +38,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -51,7 +51,7 @@
       <a href="#Materials-Used">Materials Used</a>
     </li>
     <li><a href="#Setting-up-the-Servo">Setting up the Servo Code</a></li>
-    <li><a href="#Studio5000-Code">Studio5000 Code</a></li>
+    <li><a href="#Studio-5000-Code">Studio5000 Code</a></li>
     <li><a href="#HMI">HMI</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
