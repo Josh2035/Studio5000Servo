@@ -31,16 +31,7 @@
 <h3 align="center">Mechatronics Capstone Servo Position Indexer</h3>
 
   <p align="center">
-    Servo motor that oscillates around 5 different positions
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    Servo motor that oscillates around 5 different positions. Made by Cayden and Joshua Hayes for AET / Mechatronics capstone in advanced PLC programming.
   </p>
 </div>
 
@@ -168,8 +159,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 JoshuaHayes348@gmail.com
 http://linkedin.com/in/joshua-hayes21
-
-Cayden LinkedIn/Email
 
 Project Link: [https://github.com/Josh2035/Studio5000Projects](https://github.com/Josh2035/Studio5000Projects)
 
