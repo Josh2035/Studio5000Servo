@@ -55,7 +55,6 @@
     <li><a href="#HMI">HMI</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -109,8 +108,8 @@ Here we are configuring the axis to not be in test mode and also making sure the
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- Studio 5000 -->
-## Studio 5000
+<!-- Studio 5000 Code-->
+## Studio 5000 Code
 
 ### Main Code
 To summarize the code we are using an equal to sequencing technique. This will wait until the servo has reached a certain position, wait 5 seconds and then set the sequence equal to one above the previous step. Hence the EQ and MOVE commands. We then update the parameter in the MAM (Motion Axis Move) command to have a different destination. Here we have 5 different sequences that oscillate. 
